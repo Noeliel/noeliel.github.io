@@ -1,0 +1,8 @@
+Origin: Noeliel Beta / DEV
+Label: Noeliel Beta / DEV
+Suite: stable
+Version: 1.0
+Codename: noeliel
+Architecture: iphoneos-arm
+Components: main
+Description: Noeliel's private stuff. Don't expect everything to work properly! Also some packages are iOS 6-only.
